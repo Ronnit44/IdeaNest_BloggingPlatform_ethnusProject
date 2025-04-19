@@ -51,4 +51,8 @@ npm start
 
 The browser should automatically open homepage
 
+#Contributors
+
+- [@GeetanshMalik](https://github.com/GeetanshMalik)
+
 
