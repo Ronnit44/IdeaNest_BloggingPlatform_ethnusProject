@@ -54,5 +54,6 @@ The browser should automatically open homepage
 #Contributors
 
 - [@GeetanshMalik](https://github.com/GeetanshMalik)
+- [@Ronnit44](https://github.com/Ronnit44)
 
 
