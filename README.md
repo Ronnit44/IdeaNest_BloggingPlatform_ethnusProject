@@ -1,3 +1,5 @@
+# 🚀 IdeaNest — Modern MERN Blogging Platform
+
 IdeaNest is a sleek, high-performance blogging platform built on the MERN stack (MongoDB, Express, React, Node.js). It blends advanced features with modern interfaces to offer a unique content sharing and discovery experience.
 
 ![Screenshot (58)](https://github.com/user-attachments/assets/07a80cfb-f2e9-41bf-9f67-1ac03939de8c)
